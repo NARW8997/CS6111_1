@@ -1,0 +1,78 @@
+==Frequent itemsets (min_sup=15.0%)
+[PAS], 79.4%
+[F], 60.9%
+[Morning], 57.5%
+[PAS, F], 48.4%
+[PAS, Morning], 46.2%
+[SUBN], 43.3%
+[PAS, SUBN], 40.6%
+[NY], 40.1%
+[Morning, F], 35.3%
+[Early Morning], 33.0%
+[4DSD], 28.6%
+[PAS, Morning, F], 28.4%
+[PAS, NY], 26.9%
+[SUBN, F], 26.7%
+[PAS, 4DSD], 26.6%
+[PAS, Early Morning], 25.8%
+[PAS, SUBN, F], 25.0%
+[F, NY], 24.7%
+[Morning, SUBN], 24.5%
+[O], 23.1%
+[PAS, Morning, SUBN], 23.0%
+[K], 22.8%
+[Morning, NY], 22.2%
+[21], 21.9%
+[PAS, K], 20.3%
+[PAS, 21], 19.8%
+[F, Early Morning], 19.7%
+[Q], 19.7%
+[WH], 19.1%
+[Morning, 21], 18.5%
+[PAS, O], 18.3%
+[Morning, 4DSD], 17.4%
+[GY], 17.2%
+[4DSD, F], 17.0%
+[PAS, Morning, 21], 16.7%
+[PAS, F, NY], 16.6%
+[PAS, Q], 16.6%
+[PAS, Morning, 4DSD], 16.3%
+[I], 15.8%
+[PAS, GY], 15.8%
+[PAS, 4DSD, F], 15.7%
+[BK], 15.4%
+[PAS, F, Early Morning], 15.3%
+[Morning, SUBN, F], 15.3%
+
+==High-confidence association rules (min_conf=60.0%)
+[SUBN, F] => [PAS] (Conf: 93.9%, Supp: 25.0%)
+[SUBN] => [PAS] (Conf: 93.8%, Supp: 40.6%)
+[Morning, SUBN] => [PAS] (Conf: 93.7%, Supp: 23.0%)
+[Morning, 4DSD] => [PAS] (Conf: 93.4%, Supp: 16.3%)
+[4DSD] => [PAS] (Conf: 93.2%, Supp: 26.6%)
+[4DSD, F] => [PAS] (Conf: 92.4%, Supp: 15.7%)
+[GY] => [PAS] (Conf: 91.7%, Supp: 15.8%)
+[21] => [PAS] (Conf: 90.3%, Supp: 19.8%)
+[Morning, 21] => [PAS] (Conf: 90.1%, Supp: 16.7%)
+[K] => [PAS] (Conf: 89.1%, Supp: 20.3%)
+[21] => [Morning] (Conf: 84.5%, Supp: 18.5%)
+[PAS, 21] => [Morning] (Conf: 84.3%, Supp: 16.7%)
+[Q] => [PAS] (Conf: 84.2%, Supp: 16.6%)
+[Morning, F] => [PAS] (Conf: 80.7%, Supp: 28.4%)
+[Morning] => [PAS] (Conf: 80.4%, Supp: 46.2%)
+[F] => [PAS] (Conf: 79.4%, Supp: 48.4%)
+[O] => [PAS] (Conf: 79.0%, Supp: 18.3%)
+[Early Morning] => [PAS] (Conf: 78.2%, Supp: 25.8%)
+[F, Early Morning] => [PAS] (Conf: 77.7%, Supp: 15.3%)
+[F, NY] => [PAS] (Conf: 67.4%, Supp: 16.6%)
+[NY] => [PAS] (Conf: 67.0%, Supp: 26.9%)
+[Morning, SUBN] => [F] (Conf: 62.3%, Supp: 15.3%)
+[PAS, NY] => [F] (Conf: 61.8%, Supp: 16.6%)
+[PAS, SUBN] => [F] (Conf: 61.7%, Supp: 25.0%)
+[SUBN] => [F] (Conf: 61.6%, Supp: 26.7%)
+[PAS, Morning] => [F] (Conf: 61.5%, Supp: 28.4%)
+[NY] => [F] (Conf: 61.5%, Supp: 24.7%)
+[Morning] => [F] (Conf: 61.3%, Supp: 35.3%)
+[PAS, 4DSD] => [Morning] (Conf: 61.1%, Supp: 16.3%)
+[PAS] => [F] (Conf: 61.0%, Supp: 48.4%)
+[4DSD] => [Morning] (Conf: 60.9%, Supp: 17.4%)

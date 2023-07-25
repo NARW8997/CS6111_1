@@ -1,0 +1,542 @@
+1. Look for information on the Per Se restaurant in New York City, starting with the query [per se].
+C:\Users\wzq17\AppData\Local\Microsoft\WindowsApps\python3.7.exe F:/CS6111/ass1/pj1.py
+Please type the search words: 
+per se
+Query:  per se
+Google Search Results:
+====================
+Result 1
+[
+URL: https://www.thomaskeller.com/perseny
+TITLE: Per Se | Thomas Keller Restaurant Group
+Summary: Per Se. Per Se Front Door. center. About. About; Restaurant · Team · Info & Directions · Gift Experiences · Reservations; Menus & Stories. Menus & Stories
+]
+Relevent (Y/N)?
+Y
+Result 2
+[
+URL: https://en.wiktionary.org/wiki/per_se
+TITLE: per se - Wiktionary
+Summary: In and of itself; by itself; without determination by or involvement of extraneous factors; as such quotations ▽synonym △ · (philosophy) Being a thing that ...
+]
+Relevent (Y/N)?
+N
+Result 3
+[
+URL: https://www.exploretock.com/perse
+TITLE: Per Se - New York, NY | Tock
+Summary: Opened in 2004, Per Se is Thomas Keller's acclaimed interpretation of The French Laundry in the Deutsche Bank Center at Columbus Circle.
+]
+Relevent (Y/N)?
+N
+Result 4
+[
+URL: https://www.instagram.com/perseny/?hl=en
+TITLE: Per Se (@perseny) • Instagram photos and videos
+Summary: Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus Circle & Central Park located in New York City. exploretock.com/perse. 882 posts.
+]
+Relevent (Y/N)?
+Y
+Result 5
+[
+URL: https://www.yelp.com/biz/per-se-new-york
+TITLE: PER SE - 7270 Photos & 1824 Reviews - Food near New York, NY ...
+Summary: 1824 reviews of Per Se "This is Thomas Keller's new resturant in New York. A must if you can get a reservation."
+]
+Relevent (Y/N)?
+Y
+Result 6
+[
+URL: https://www.merriam-webster.com/dictionary/perse
+TITLE: Perse Definition & Meaning - Merriam-Webster
+Summary: adjective (1) · ˈpərs · of a dark grayish blue resembling indigo ; adverb. (ˌ)pər-ˈsā,. also per-ˈsā,. or. (ˌ)pər-ˈsē · by, of, or in itself or oneself or ...
+]
+Relevent (Y/N)?
+N
+Result 7
+[
+URL: https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se
+TITLE: Per Se – New York - a MICHELIN Guide Restaurant
+Summary: Per Se – a Three MICHELIN Stars: Exceptional cuisine, worth a special journey! restaurant in the 2022 MICHELIN Guide USA. The MICHELIN inspectors' point of ...
+]
+Relevent (Y/N)?
+Y
+Result 8
+[
+URL: https://dictionary.cambridge.org/dictionary/english/per-se
+TITLE: PER SE | English meaning - Cambridge Dictionary
+Summary: 5 days ago ... per se definition: 1. by or of itself: 2. by or of itself: 3. by or of itself: . Learn more.
+]
+Relevent (Y/N)?
+N
+Result 9
+[
+URL: https://www.persegroup.com/
+TITLE: Per Se Group
+Summary: Per Sé is a leading workforce solution to the Energy and Industrial markets. Our technology, and recruitment expertise, seamlessly match talented people in ...
+]
+Relevent (Y/N)?
+N
+Result 10
+[
+URL: https://www.vocabulary.com/dictionary/per%20se
+TITLE: Per se - Definition, Meaning & Synonyms | Vocabulary.com
+Summary: Per se is the phrase to use when you want to refer to a particular thing on its own. It is not this Latin phrase, per se, that is important, but rather the ...
+]
+Relevent (Y/N)?
+N
+Precision:  0.4
+Below the desired precision 0.9, expanding query...
+====================
+Expanded query:  per se michelin york
+Google Search Results:
+====================
+Result 1
+[
+URL: https://www.thomaskeller.com/perseny
+TITLE: Per Se | Thomas Keller Restaurant Group
+Summary: Yountville; The French Laundry · Bouchon Bistro · Bouchon Bakery · Ad Hoc + Addendum · Regiis Ova Caviar & Champagne · La Calenda; New York; Per Se
+]
+Relevent (Y/N)?
+Y
+Result 2
+[
+URL: https://guide.michelin.com/en/new-york-state/new-york/restaurant/per-se
+TITLE: Per Se – New York - a MICHELIN Guide Restaurant
+Summary: Three MICHELIN Stars: Exceptional cuisine, worth a special journey! An experience at Thomas Keller's Per Se is one to be savored, recounted and remembered.
+]
+Relevent (Y/N)?
+Y
+Result 3
+[
+URL: https://en.wikipedia.org/wiki/Per_Se_(restaurant)
+TITLE: Per Se (restaurant) - Wikipedia
+Summary: The Chef de Cuisine is Chad Palagi. Per Se has maintained three Michelin stars since the introduction of the New York City Guide in 2006.
+]
+Relevent (Y/N)?
+Y
+Result 4
+[
+URL: https://www.nytimes.com/2016/01/13/dining/pete-wells-per-se-review.html
+TITLE: At Thomas Keller's Per Se, Slips and Stumbles - The New York Times
+Summary: Jan 12, 2016 ... Dinner or lunch at this grand, hermetic, self-regarding, ungenerous restaurant brings a protracted march of many dishes. In 2004, the year Per ...
+]
+Relevent (Y/N)?
+Y
+Result 5
+[
+URL: https://www.instagram.com/perseny/?hl=en
+TITLE: Per Se (@perseny) • Instagram photos and videos
+Summary: Chef Thomas Keller's 3-Star Michelin restaurant overlooking Columbus Circle & Central Park located in New York City. exploretock.com/perse. 882 posts.
+]
+Relevent (Y/N)?
+Y
+Result 6
+[
+URL: https://ny.eater.com/2021/5/6/22422661/michelin-restaurants-nyc-stars-2021
+TITLE: Michelin Announces 2021 Stars for New York City
+Summary: May 6, 2021 ... Three stars. Chef's Table at Brooklyn Fare. Eleven Madison Park. Le Bernardin. Masa. Per Se · Two Stars. Aquavit. Aska. Atera. Atomix. Blanca.
+]
+Relevent (Y/N)?
+Y
+Result 7
+[
+URL: https://andershusa.com/per-se-new-york-thomas-keller-most-expensive-meal-ever/
+TITLE: Video: Per Se - Our Most Expensive Meal Ever
+Summary: Mar 15, 2022 ... Discover Per Se, the legendary three-Michelin-starred restaurant from chef Thomas Keeler in New York, and our most expensive meal ever.
+]
+Relevent (Y/N)?
+Y
+Result 8
+[
+URL: https://ny.eater.com/2022/10/6/23389696/michelin-restaurants-nyc-stars-2022
+TITLE: Michelin Announces 2022 Stars for New York City
+Summary: Oct 6, 2022 ... Eleven Madison Park kept its three Michelin stars as a vegan ... which, aside from Eleven Madison park, also includes the opulent Per Se, ...
+]
+Relevent (Y/N)?
+N
+Result 9
+[
+URL: https://www.businessinsider.com/nyc-best-michelin-restaurants-le-bernardin-per-se-2018-11
+TITLE: Le Bernardin and Per Se Have Had 3 Michelin Stars for 14 Years ...
+Summary: Dec 6, 2018 ... Five NYC restaurants were awarded three Michelin stars for 2019 — the guide's highest ranking. ... per se new york restaurant michelin.
+]
+Relevent (Y/N)?
+Y
+Result 10
+[
+URL: https://www.yelp.com/biz/per-se-new-york
+TITLE: PER SE - 7270 Photos & 1824 Reviews - Food near New York, NY ...
+Summary: 1824 reviews of Per Se "This is Thomas Keller's new resturant in New York. ... My husband and I have dining at many three, two, and one Michelin star ...
+]
+Relevent (Y/N)?
+Y
+Precision:  0.9
+Achieved desired precision 0.9, done
+
+Process finished with exit code 0
+
+
+
+
+
+
+2. Look for information on Google cofounder Sergey Brin, starting with the query [brin].
+C:\Users\wzq17\AppData\Local\Microsoft\WindowsApps\python3.7.exe F:/CS6111/ass1/pj1.py
+Please type the search words: 
+brin
+Query:  brin
+Google Search Results:
+====================
+Result 1
+[
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+TITLE: Sergey Brin - Wikipedia
+Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and internet entrepreneur, who co-founded Google with Larry Page. Brin was the ...
+]
+Relevent (Y/N)?
+Y
+Result 2
+[
+URL: https://www.davidbrin.com/
+TITLE: worlds of David Brin
+Summary: David Brin is best-known for shining light — plausibly and entertainingly — on technology, society, and countless challenges confronting our rambunctious ...
+]
+Relevent (Y/N)?
+N
+Result 3
+[
+URL: https://www.bringlass.com/
+TITLE: Brin Glass Company: Home
+Summary: Brin's glasswork shines in these Corporate, Healthcare, Education, Hospitality, Residential, Nonprofit, Government, and Retail projects.
+]
+Relevent (Y/N)?
+N
+Result 4
+[
+URL: https://www.postgresql.org/docs/current/brin-intro.html
+TITLE: Documentation: 15: 71.1. Introduction - PostgreSQL
+Summary: BRIN stands for Block Range Index. BRIN is designed for handling very large tables in which certain columns have some natural correlation with their ...
+]
+Relevent (Y/N)?
+N
+Result 5
+[
+URL: https://www.brinandbrin.com/
+TITLE: Brin & Brin LLC – Law Firm
+Summary: The litigation, transactional and compliance lawyers at Brin & Brin have proven success in some of the toughest Texas venues. ... We have represented clients in a ...
+]
+Relevent (Y/N)?
+N
+Result 6
+[
+URL: https://en.wiktionary.org/wiki/brin
+TITLE: brin - Wiktionary
+Summary: NounEdit · One of the radiating sticks of a fan. The outermost are larger and longer, and are called panaches. · A single silkworm thread extruded from the gland, ...
+]
+Relevent (Y/N)?
+N
+Result 7
+[
+URL: https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html
+TITLE: Google Calls In Larry Page and Sergey Brin to Tackle ChatGPT and ...
+Summary: Jan 20, 2023 ... Last month, Larry Page and Sergey Brin, Google's founders, held several meetings with company executives. The topic: a rival's new chatbot, ...
+]
+Relevent (Y/N)?
+Y
+Result 8
+[
+URL: https://www.forbes.com/profile/sergey-brin/
+TITLE: Sergey Brin
+Summary: 7 Sergey Brin on the 2022 Forbes 400 - Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a ...
+]
+Relevent (Y/N)?
+Y
+Result 9
+[
+URL: https://www.brinlevinson.com/
+TITLE: Brin Levinson
+Summary: The Art of Brin Levinson.
+]
+Relevent (Y/N)?
+N
+Result 10
+[
+URL: https://brinsound.bandcamp.com/album/homescreen-glow
+TITLE: Homescreen Glow | brin
+Summary: Brin is a strand of rhythmic audio expressionism for the online world through the lens of LA-based artist Colin Blanton. Homescreen Glow, the full-length ...
+]
+Relevent (Y/N)?
+N
+Precision:  0.3
+Below the desired precision 0.9, expanding query...
+====================
+Expanded query:  brin sergey google
+Google Search Results:
+====================
+Result 1
+[
+URL: https://en.wikipedia.org/wiki/Sergey_Brin
+TITLE: Sergey Brin - Wikipedia
+Summary: Sergey Mikhailovich Brin is an American business magnate, computer scientist, and internet entrepreneur, who co-founded Google with Larry Page. Brin was the ...
+]
+Relevent (Y/N)?
+Y
+Result 2
+[
+URL: https://www.nytimes.com/2023/01/20/technology/google-chatgpt-artificial-intelligence.html
+TITLE: Google Calls In Larry Page and Sergey Brin to Tackle ChatGPT and ...
+Summary: Jan 20, 2023 ... Last month, Larry Page and Sergey Brin, Google's founders, held several meetings with company executives. The topic: a rival's new chatbot, ...
+]
+Relevent (Y/N)?
+Y
+Result 3
+[
+URL: https://www.forbes.com/profile/sergey-brin/
+TITLE: Sergey Brin
+Summary: Real Time Net Worth · Sergey Brin stepped down as president of Alphabet, parent company of Google, in December 2019 but remains a controller shareholder and a ...
+]
+Relevent (Y/N)?
+Y
+Result 4
+[
+URL: https://www.linkedin.com/in/sergey-brin-23325b1bb
+TITLE: Sergey Brin - ceo google inc. ceo alphabet inc. - LinkedIn
+Summary: View Sergey Brin's profile on LinkedIn, the world's largest professional community. Sergey has 1 job listed on their profile. See the complete profile on ...
+]
+Relevent (Y/N)?
+Y
+Result 5
+[
+URL: https://www.forbes.com/sites/richardnieva/2023/01/31/sergey-brin-code-request-lamda/
+TITLE: Back At Google Again, Cofounder Sergey Brin Just Filed His First ...
+Summary: Feb 1, 2023 ... As the battle in artificial intelligence technology heats up between Silicon Valley companies, Google cofounder Sergey Brin is getting ...
+]
+Relevent (Y/N)?
+Y
+Result 6
+[
+URL: https://www.businessinsider.com/sergey-brin-google-alphabet-life-photos-2016-12
+TITLE: Sergey Brin: Life of Google Founder, Former Alphabet President
+Summary: Jul 25, 2022 ... Sergey Brin, 48, is now valued at almost $95 billion, according to the Bloomberg Billionaires Index. · Brin was born in the Soviet Union during ...
+]
+Relevent (Y/N)?
+Y
+Result 7
+[
+URL: https://www.britannica.com/biography/Sergey-Brin
+TITLE: Sergey Brin | Biography, Google, & Facts | Britannica
+Summary: Sergey Brin, (born August 21, 1973, Moscow, Russia, U.S.S.R.), American computer scientist and entrepreneur who created, along with Larry Page, the online ...
+]
+Relevent (Y/N)?
+Y
+Result 8
+[
+URL: https://www.businessinsider.com/google-larry-page-sergey-brin-help-chatgpt-code-red-2023-1
+TITLE: Google Asked Larry Page, Sergey Brin for Help After ChatGPT ...
+Summary: Jan 21, 2023 ... Google called on cofounders Larry Page and Sergey Brin in ChatGPT fightback after issuing a 'code red', report says.
+]
+Relevent (Y/N)?
+Y
+Result 9
+[
+URL: https://www.bbc.com/news/business-55914177
+TITLE: Sergey Brin: Google co-founder sets up family firm in Singapore ...
+Summary: Feb 3, 2021 ... The world's ninth-richest person, Sergey Brin, is setting up a company in the city-state to manage his wealth.
+]
+Relevent (Y/N)?
+Y
+Result 10
+[
+URL: https://nypost.com/2022/06/17/google-co-founder-sergey-brin-whos-worth-93-billion-files-for-divorce/
+TITLE: Google co-founder Sergey Brin -- who's worth $93 billion -- files for ...
+Summary: Jun 17, 2022 ... Sergey Brin -- the Google co-founder who is the seventh richest person in the world with a net worth north of $93 billion -- has filed to ...
+]
+Relevent (Y/N)?
+Y
+Precision:  1.0
+Achieved desired precision 0.9, done
+
+Process finished with exit code 0
+
+
+
+
+
+3. Look for information on COVID-19 cases, starting with the query [cases].
+C:\Users\wzq17\AppData\Local\Microsoft\WindowsApps\python3.7.exe F:/CS6111/ass1/pj1.py
+Please type the search words: 
+cases
+Query:  cases
+Google Search Results:
+====================
+Result 1
+[
+URL: https://www.cases.org/
+TITLE: CASES: Home
+Summary: From court and program offices in the Bronx, Brooklyn, and Manhattan, CASES provides community-based alternatives to jail and prison. These programs address ...
+]
+Relevent (Y/N)?
+N
+Result 2
+[
+URL: https://www.casetify.com/
+TITLE: CASETiFY: Show Your Colors
+Summary: CASETiFY - We make the most sustainable yet protective phone cases for iPhone 14 / iPhone 14 Pro / iPhone 14 Plus / iPhone 14 Pro Max and tech accessories.
+]
+Relevent (Y/N)?
+N
+Result 3
+[
+URL: https://covid.cdc.gov/
+TITLE: CDC COVID Data Tracker: Home
+Summary: Stay up to date on the most recent data on vaccinations, cases, and deaths. Cases, Deaths, & Testing Case & Death Demographic Trends Vaccination Distribution & ...
+]
+Relevent (Y/N)?
+Y
+Result 4
+[
+URL: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
+TITLE: Coronavirus COVID-19 (2019-nCoV)
+Summary: Total Cases. Data source error. Total Deaths. Data source error. Total Vaccine Doses Administered. Cases | Deaths by Country/Region/Sovereignty.
+]
+Relevent (Y/N)?
+Y
+Result 5
+[
+URL: https://www.worldometers.info/coronavirus/
+TITLE: COVID - Coronavirus Statistics - Worldometer
+Summary: Reported Cases and Deaths by Country or Territory. NOTE: Effective February 1, 2023, the Coronavirus Tracker has switched from LIVE to Daily Updates. As a ...
+]
+Relevent (Y/N)?
+Y
+Result 6
+[
+URL: https://www.vdh.virginia.gov/coronavirus/see-the-numbers/covid-19-in-virginia/covid-19-in-virginia-cases/
+TITLE: Cases - Coronavirus
+Summary: Jan 31, 2023 ... Case, hospitalization, and death data reflect Virginia residents only. Death data are presented by both date of report and by date of death and ...
+]
+Relevent (Y/N)?
+Y
+Result 7
+[
+URL: https://www.cdc.gov/measles/cases-outbreaks.html
+TITLE: Measles Cases and Outbreaks | CDC
+Summary: Measles cases in 2019. From January 1 to December 31, 2019, 1,274* individual cases of measles were confirmed in 31 states. This is the greatest number ...
+]
+Relevent (Y/N)?
+N
+Result 8
+[
+URL: https://www.vacourts.gov/caseinfo/home.html
+TITLE: Case Status and Information
+Summary: Circuit Court. Circuit Court Case Information Online access to civil and criminal cases in select circuit courts. Cases may be searched by locality using name, ...
+]
+Relevent (Y/N)?
+N
+Result 9
+[
+URL: https://www.cdc.gov/poxvirus/monkeypox/response/2022/us-map.html
+TITLE: 2022 U.S. Map & Case Count | Mpox | Poxvirus | CDC
+Summary: View a map of 2022 mpox cases in the United States.
+]
+Relevent (Y/N)?
+N
+Result 10
+[
+URL: https://pbskids.org/oddsquad/games/cases
+TITLE: Odd Squad: Cases
+Summary: Change your station. Back. Odd Squad Game: Cases. Play Pause Audio On Audio Off Voice Music Sound Effects Closed Captioning Fullscreen Help Close.
+]
+Relevent (Y/N)?
+N
+Precision:  0.4
+Below the desired precision 0.9, expanding query...
+====================
+Expanded query:  cases deaths data
+Google Search Results:
+====================
+Result 1
+[
+URL: https://covid.cdc.gov/
+TITLE: CDC COVID Data Tracker: Home
+Summary: Stay up to date on the most recent data on vaccinations, cases, and deaths. Cases, Deaths, & Testing Case & Death Demographic Trends Vaccination Distribution & ...
+]
+Relevent (Y/N)?
+Y
+Result 2
+[
+URL: https://covid19.who.int/
+TITLE: WHO Coronavirus (COVID-19) Dashboard
+Summary: ... situation dashboard presents official daily counts of COVID-19 cases and deaths worldwide, along with vaccination rates and other vaccination data, ...
+]
+Relevent (Y/N)?
+Y
+Result 3
+[
+URL: https://www.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
+TITLE: Coronavirus COVID-19 (2019-nCoV)
+Summary: Data source error. Total Deaths. Data source error. Total Vaccine Doses Administered. Cases | Deaths by Country/Region/Sovereignty. Data source error.
+]
+Relevent (Y/N)?
+Y
+Result 4
+[
+URL: https://www.worldometers.info/coronavirus/
+TITLE: COVID - Coronavirus Statistics - Worldometer
+Summary: Daily and weekly updated statistics tracking the number of COVID-19 cases, recovered, and deaths. Historical data with cumulative charts, graphs, ...
+]
+Relevent (Y/N)?
+Y
+Result 5
+[
+URL: https://www.health.pa.gov/topics/disease/coronavirus/pages/cases.aspx
+TITLE: COVID-19 Data for Pennsylvania
+Summary: The COVID-19 Dashboard discloses the number of confirmed and probable cases, deaths, ZIP-code level data, hospital preparedness, and case and death ...
+]
+Relevent (Y/N)?
+Y
+Result 6
+[
+URL: http://publichealth.lacounty.gov/media/coronavirus/data/index.htm
+TITLE: LA County Daily COVID-19 Data - LA County Department of Public ...
+Summary: LA County Daily COVID-19 Data ... *including cases reported by Long Beach and Pasadena Health Departments. Testing ... New Deaths Reported (01/27/23)*: 19.
+]
+Relevent (Y/N)?
+Y
+Result 7
+[
+URL: https://www.nytimes.com/interactive/2021/us/covid-cases.html
+TITLE: Covid in the U.S.: Latest Maps, Case and Death Counts - The New ...
+Summary: Track Covid-19 in your area, and get the latest state and county data on cases, deaths, hospitalizations, tests and vaccinations.
+]
+Relevent (Y/N)?
+Y
+Result 8
+[
+URL: https://www.nyc.gov/site/doh/covid/covid-19-data.page
+TITLE: COVID-19: Latest Data - NYC Health
+Summary: Vaccinated New Yorkers have much lower rates of cases, hospitalizations, and deaths. About the data for this chart. Get the data.
+]
+Relevent (Y/N)?
+Y
+Result 9
+[
+URL: https://coronavirus.jhu.edu/
+TITLE: Johns Hopkins Coronavirus Resource Center: Home
+Summary: Data in Motion. COVID-19 Data in Motion: Friday, February 17, 2023 · New Cases. Explore Global Case Trends · COVID Deaths. Compare Mortality Rates · International ...
+]
+Relevent (Y/N)?
+N
+Result 10
+[
+URL: https://sf.gov/data/covid-19-cases-and-deaths
+TITLE: COVID-19 cases and deaths | San Francisco
+Summary: COVID-19 cases and deaths · New cases. We track the number of new cases to show how quickly the virus is spreading. · New cases by vaccination status. The data ...
+]
+Relevent (Y/N)?
+Y
+Precision:  0.9
+Achieved desired precision 0.9, done
+
+Process finished with exit code 0
